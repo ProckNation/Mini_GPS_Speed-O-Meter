@@ -1,0 +1,6 @@
+BT1,,SparkFun WRL-12576,
+GPS1,GPS,Adafruit 746,
+J,,,
+LCD1,,Generic LCD 20x4,
+PS1,PowerCell,SparkFun PRT-11231,
+SW1,Soft Power Switch,,
