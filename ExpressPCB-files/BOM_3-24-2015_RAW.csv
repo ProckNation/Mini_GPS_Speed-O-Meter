@@ -1,0 +1,11 @@
+ANT1,GPS ANTENNA,
+BATT1,LiPo BATT 2Ahr,SparkFun PRT-08483
+BT1,,SparkFun WRL-12576
+GPS1,GPS,Adafruit 746
+J1,MicroB USB Breakout,SparkFun BOB-12035
+J2,5v Input Jack,
+LCD1,,Generic LCD 20x4
+PS1,PowerCell,SparkFun PowerCell PRT-11231
+SW1,Soft Power Switch,
+SW2,,
+U1,Mega 2560,Arduino Mega2560
